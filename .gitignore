@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained models
+*.h5
+
+# Dataset (optional but recommended)
+data/
+train/
+test/
+
+# OS files
+.DS_Store
+Thumbs.db
